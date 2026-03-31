@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/pahankov/Nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/pahankov/Nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pahankov/Nodejs.git"
+  },
+  "license": "ISC",
+  "author": "Pavel.Kovalevskiy",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
