@@ -1,1 +1,4 @@
-/.sixth
+node_modules/
+.sixth/
+.vscode/
+!.vscode/launch.json
